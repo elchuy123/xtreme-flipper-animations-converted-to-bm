@@ -1,4 +1,4 @@
-Filetype: Flipper Animation
+Filetype: an8me
 Version: 1
 
 Width: 128
